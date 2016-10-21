@@ -1,11 +1,16 @@
 .fondo {
-  background-color: #ff8080;
-  height: 100vh; }
+	/*background-image: url("images/image_1.jpg");*/
+	/*background-repeat: no-repeat;*/
+	/*background-color: #ff8080;*/
+	height: calc(100vh - 70px); 
+	/*background-size: cover;*/
+	padding: 1px;
+}
 
 body {
-	overflow: hidden;;
-  padding-top: 30px; }
 
-/*50/16*/
+	padding-top: 70px; }
 
-/*# sourceMappingURL=style.css.map */
+	/*50/16*/
+
+	/*# sourceMappingURL=style.css.map */
